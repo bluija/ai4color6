@@ -200,7 +200,7 @@ startButton.onclick = async () => {
         }, {
             title: 'Stimulus',
             element: canvasDisplay,
-            intro: '<p>There are 2 colors in the animation.</p>' +
+            intro: '<p>There are 6 colors in the animation.</p>' +
                 '<p>The animation stops after 1 second.</p>'
         }, {
             title: 'AI',
